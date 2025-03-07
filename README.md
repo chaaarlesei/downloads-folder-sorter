@@ -56,9 +56,6 @@ To run the script automatically, you can **schedule it with Task Scheduler**:
 ## License
 This script is **free to use and modify**.
 
-## Contributions
-Feel free to contribute by adding new features or improvements!
-
 ---
 **Happy Organizing!**
 
