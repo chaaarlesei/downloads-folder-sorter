@@ -51,4 +51,4 @@ def move_files():
 if __name__ == "__main__":
     create_folders()
     move_files()
-    print("✅ Downloads folder sorted successfully!")
+    print("Downloads folder sorted successfully!")
